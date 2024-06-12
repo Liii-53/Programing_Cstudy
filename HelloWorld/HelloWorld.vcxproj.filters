@@ -21,5 +21,14 @@
     <ClCompile Include="컴파일러.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="변수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="부피 구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="섭씨화씨.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

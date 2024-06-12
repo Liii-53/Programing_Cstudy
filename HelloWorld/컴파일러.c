@@ -1,9 +1,6 @@
-﻿//
-//
-//
-//
-//
-//
+﻿//주석
+/* 주석 */
+
 #include <stdio.h>
 
 int main(void)
