@@ -46,9 +46,19 @@ int main(void)
 
 	fin = secondnum1 * secondnum2 + secondnum3;
 
-	printf("문제 2의 정답 : %d", fin);
+	printf("문제 2의 정답 : %d\n", fin);
 
 	//문제 3
+	printf("첫번째 정수를 입력하세요: ");
+	scanf_s("%d", &thirdnum1);
+	printf("두번째 정수를 입력하세요: ");
+	scanf_s("%d", &thirdnum2);
+
+	devide = thirdnum1 / thirdnum2;
+	left = thirdnum1 % thirdnum2;
+
+	printf("두 수의 뺄셈 : %d", devide);
+	printf("...나머지:%d", left);
 
 	return 0;
 }
