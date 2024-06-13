@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Hello Study! \n¾È³çÈ÷°¡¼¼¿ä.");
-	printf("¾È³ç");
+	printf("Hello Study! \nì•ˆë…•í•˜ì„¸ìš”.");
+	printf("ì•ˆë…•");
 	return 0;
 }

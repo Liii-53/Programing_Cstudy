@@ -1,6 +1,6 @@
 //2424.06.12
 
-//ºÎÇÇ ±¸ÇÏ±â
+//ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ï±ï¿½
 
 #include <stdio.h>
 
@@ -8,19 +8,19 @@ int main(void)
 {
 	int width = 12;
 	int height = 10;
-	int length = 8;	//width, height, length Á¤¼ö¸¦ ´ãÀ» ¼ö ÀÖ´Â º¯¼ö ¼±¾ð
+	int length = 8;	//width, height, length ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
 	int volume;
-	volume = width * height * length;	// ¼¼ º¯À» °öÇÑ °ª(ºÎÇÇ) Volume º¯¼ö¿¡ ÀúÀåÇÏ¼¼¿ä
+	volume = width * height * length;	// ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½) Volume ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½
 
 	int result;
 	result = (volume + 164) / 165;
 
 	float volume_f = width * height * length;
 	float result_f;
-	result_f = volume_f / 165;	//VolumeÀ» 165·Î ³ª´©¾î ½ÇÁ¦ ¿øÇÏ´Â °è»ê °ªÀ» ±¸ÇÏ¿© Ãâ·ÂÇÏ¼¼¿ä
+	result_f = volume_f / 165;	//Volumeï¿½ï¿½ 165ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½
 
-	printf("%d \n", result);	// Á¤¼ö, ¹Ý¿Ã¸² °á°ú
-	printf("%f", result_f);		//½Ç¼ö °á°ú
+	printf("%d \n", result);	// ï¿½ï¿½ï¿½ï¿½, ï¿½Ý¿Ã¸ï¿½ ï¿½ï¿½ï¿½
+	printf("%f", result_f);		//ï¿½Ç¼ï¿½ ï¿½ï¿½ï¿½
 	return 0;
 }

@@ -30,5 +30,14 @@
     <ClCompile Include="섭씨화씨.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이스케이프.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
