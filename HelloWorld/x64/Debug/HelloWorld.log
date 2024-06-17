@@ -1,2 +1,3 @@
-﻿  lecture4.c
+﻿  lecture6.c
+C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture6.c(61,6): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
   HelloWorld.vcxproj -> C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\x64\Debug\HelloWorld.exe
