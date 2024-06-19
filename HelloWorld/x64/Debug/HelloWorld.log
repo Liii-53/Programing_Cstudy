@@ -1,4 +1,4 @@
-﻿  lecture7.c
-C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture7.c(63,8): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
-C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture7.c(36,13): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+﻿  lecture8.c
+C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture8.c(127,18): warning C4552: '<<': 식의 결과가 사용되지 않습니다.
+C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture8.c(131,18): warning C4552: '<<': 식의 결과가 사용되지 않습니다.
   HelloWorld.vcxproj -> C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\x64\Debug\HelloWorld.exe
