@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld.vcxproj", "{820A413C-20A5-4423-819F-7DB61D9AE597}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Avoid_Star", "..\Avoid_Star\Avoid_Star.vcxproj", "{084251E6-EA86-4083-9B2C-F03B7189C279}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{820A413C-20A5-4423-819F-7DB61D9AE597}.Release|x64.Build.0 = Release|x64
 		{820A413C-20A5-4423-819F-7DB61D9AE597}.Release|x86.ActiveCfg = Release|Win32
 		{820A413C-20A5-4423-819F-7DB61D9AE597}.Release|x86.Build.0 = Release|Win32
+		{084251E6-EA86-4083-9B2C-F03B7189C279}.Debug|x64.ActiveCfg = Debug|x64
+		{084251E6-EA86-4083-9B2C-F03B7189C279}.Debug|x64.Build.0 = Debug|x64
+		{084251E6-EA86-4083-9B2C-F03B7189C279}.Debug|x86.ActiveCfg = Debug|Win32
+		{084251E6-EA86-4083-9B2C-F03B7189C279}.Debug|x86.Build.0 = Debug|Win32
+		{084251E6-EA86-4083-9B2C-F03B7189C279}.Release|x64.ActiveCfg = Release|x64
+		{084251E6-EA86-4083-9B2C-F03B7189C279}.Release|x64.Build.0 = Release|x64
+		{084251E6-EA86-4083-9B2C-F03B7189C279}.Release|x86.ActiveCfg = Release|Win32
+		{084251E6-EA86-4083-9B2C-F03B7189C279}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
