@@ -1,4 +1,4 @@
-﻿  lecture8.c
-C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture8.c(127,18): warning C4552: '<<': 식의 결과가 사용되지 않습니다.
-C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture8.c(131,18): warning C4552: '<<': 식의 결과가 사용되지 않습니다.
+﻿  lecture14.c
+C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture14.c(30,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\lecture14.c(51,2): warning C4013: 'scanf_s'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   HelloWorld.vcxproj -> C:\Users\seooo\Documents\GitHub\Programing_Cstudy\HelloWorld\x64\Debug\HelloWorld.exe
